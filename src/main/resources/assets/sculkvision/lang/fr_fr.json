@@ -1,0 +1,14 @@
+{
+  "sculkvision.key.toggle": "Activer Sculk Vision",
+  "sculkvision.key.temp": "Sculk Vision (10 secondes)",
+  "sculkvision.key.category": "Sculk Vision",
+  
+  "sculkvision.config.title": "Paramètres Sculk Vision",
+  "sculkvision.config.enabled": "Activé",
+  "sculkvision.config.screenShake": "Tremblement écran",
+  "sculkvision.config.particles": "Particules",
+  "sculkvision.config.holograms": "Hologrammes",
+  "sculkvision.config.overlayHeight": "Hauteur de l'overlay",
+  "sculkvision.config.warningThreshold": "Seuil d'alerte",
+  "sculkvision.config.criticalThreshold": "Seuil critique"
+}

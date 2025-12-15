@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "sculkvision",
+  "version": "${version}",
+  "name": "Sculk Vision",
+  "description": "Visualize chunk performance with beautiful sculk-themed overlays that follow the terrain",
+  "authors": ["SculkVision"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/sculk-vision",
+    "sources": "https://github.com/sculkvision/sculk-vision"
+  },
+  "license": "MIT",
+  "icon": "assets/sculkvision/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.sculkvision.SculkVisionClient"],
+    "modmenu": ["com.sculkvision.ModMenuIntegration"]
+  },
+  "mixins": ["sculkvision.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

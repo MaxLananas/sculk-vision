@@ -1,0 +1,14 @@
+{
+  "sculkvision.key.toggle": "Toggle Sculk Vision",
+  "sculkvision.key.temp": "Sculk Vision (10 seconds)",
+  "sculkvision.key.category": "Sculk Vision",
+  
+  "sculkvision.config.title": "Sculk Vision Settings",
+  "sculkvision.config.enabled": "Enabled",
+  "sculkvision.config.screenShake": "Screen Shake",
+  "sculkvision.config.particles": "Particles",
+  "sculkvision.config.holograms": "Holograms",
+  "sculkvision.config.overlayHeight": "Overlay Height Offset",
+  "sculkvision.config.warningThreshold": "Warning Threshold",
+  "sculkvision.config.criticalThreshold": "Critical Threshold"
+}
